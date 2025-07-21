@@ -15,5 +15,7 @@ https://support.arduino.cc/hc/en-us/articles/360018922259-What-power-supply-can-
 Or connect from Laptop using USB  
 <img width="574" height="483" alt="image" src="https://github.com/user-attachments/assets/855e750c-3def-4794-bd44-d3b8af65ad14" />  
 
+## Circuit Diagram (USB connected)
+<img width="770" height="669" alt="image" src="https://github.com/user-attachments/assets/2bdc06c4-f315-40bd-8a7c-cd7534fc78e5" />
 
 
