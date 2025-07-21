@@ -1,6 +1,9 @@
 # Traffic Light Application
 
-The following are Required Material
+## Circuit Diagram (USB connected)
+<img width="770" height="669" alt="image" src="https://github.com/user-attachments/assets/2bdc06c4-f315-40bd-8a7c-cd7534fc78e5" />
+
+## Required Material
 
 Arduiono Uno/Mega  
 <img width="582" height="544" alt="image" src="https://github.com/user-attachments/assets/842b52f9-f387-4555-82f3-fca6358f13d0" />  
@@ -14,8 +17,9 @@ Power Supply to Arduino
 https://support.arduino.cc/hc/en-us/articles/360018922259-What-power-supply-can-I-use-with-my-Arduino-board
 Or connect from Laptop using USB  
 <img width="574" height="483" alt="image" src="https://github.com/user-attachments/assets/855e750c-3def-4794-bd44-d3b8af65ad14" />  
+Jumper wires  
+<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/cb925e51-1f6f-4f9b-94ef-1fb773228a09" />
 
-## Circuit Diagram (USB connected)
-<img width="770" height="669" alt="image" src="https://github.com/user-attachments/assets/2bdc06c4-f315-40bd-8a7c-cd7534fc78e5" />
+
 
 
